@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+unstructured
+faiss-cpu
+langchain
+langchain-openai
+python-dotenv
