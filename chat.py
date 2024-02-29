@@ -82,8 +82,7 @@ here is the context:
                 MessagesPlaceholder(variable_name="messages"),
                 (
                     "user",
-                    """Given the above conversation and the information provided about the event below, generate a search query to look up in order to get the most relevant information to the conversation. Only respond with the query, nothing else. try to make the query general and not too focused on names.
-Winter Seminar Series (WSS) (may also be written as وسس in Persian) is a professional community event hosted by the Sharif University of Technology on computer science and engineering topics.""",
+                    """Given the above conversation, generate a search query to look up in order to get relevant information to the conversation. Only respond with the query, nothing else. try to make the query general and not specific about the names. questions about WSS should give query about event that doesn't contain WSS"""
                 ),
             ]
         )
@@ -92,8 +91,7 @@ Winter Seminar Series (WSS) (may also be written as وسس in Persian) is a prof
                 MessagesPlaceholder(variable_name="messages"),
                 (
                     "user",
-                    """Given the above conversation and the information provided about the event below, generate a search query to look up in order to get the most relevant information to the conversation. Only respond with the query, nothing else. try to make the query general and not too focused on names.
-Winter Seminar Series (WSS) (may also be written as وسس in Persian) is a professional community event hosted by the Sharif University of Technology on computer science and engineering topics.""",
+                    """Given the above conversation, generate a search query to look up in order to get relevant information to the conversation. Only respond with the query, nothing else. try to make the query general and not specific about the names. questions about WSS should give query about event that doesn't contain WSS"""
                 ),
             ]
         )
