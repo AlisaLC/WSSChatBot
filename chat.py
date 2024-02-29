@@ -38,8 +38,9 @@ class Chat:
         self.retrieval_chain = (
             RunnablePassthrough.assign(
                 context=self.query_transforming_retriever_chain,
+            ).assign(
+                answer=self.chain,
             )
-            | self.chain
         )
     
     def __init_chain(self):
@@ -79,29 +80,33 @@ here is the context:
     def __init_transformation_chain(self):
         query_transform_prompt = ChatPromptTemplate.from_messages(
             [
-                (
-                    "system",
-                    """You are a helpful assistant. You are supposed to give a search query to find the most similar question and answer pair. here is what you should know about the event that the question and answers are about:
-The Winter Seminar Series (WSS) (may also be written as وسس in Persian) is a professional community event hosted by the Sharif University of Technology, aimed at bringing together successful Iranians globally to focus on computer science and engineering topics. Established eight years ago by the Student Scientific Chapter, WSS has become a significant four-day event where speakers present their research, share findings, and teach. The seminar includes presentations, roundtable discussions on various scientific topics, and educational workshops. These workshops are conducted online by university alumni and cover practical aspects of computer science and engineering. The event also features roundtable discussions in Persian, encouraging networking and knowledge exchange among participants.""",
-                ),
                 MessagesPlaceholder(variable_name="messages"),
                 (
                     "user",
-                    "Given the above conversation and your knowledge about the event, generate a search query to look up in order to get the most relevant question and answer pair to the conversation. Only respond with the query, nothing else.",
+                    """The Winter Seminar Series (WSS) (may also be written as وسس in Persian) is a professional community event hosted by the Sharif University of Technology, aimed at bringing together successful Iranians globally to focus on computer science and engineering topics. Established eight years ago by the Student Scientific Chapter, WSS has become a significant four-day event where speakers present their research, share findings, and teach. The seminar includes presentations, roundtable discussions on various scientific topics, and educational workshops. These workshops are conducted online by university alumni and cover practical aspects of computer science and engineering. The event also features roundtable discussions in Persian, encouraging networking and knowledge exchange among participants.
+Given the above conversation and the information provided about the event, generate a search query to look up in order to get the most relevant question and answer pair to the conversation.
+The search query should be general and respond to user's state and needs. example:
+user: I'm hungry
+query: location of where food is served
+user: when is WSS being held?
+query: time table of when event is being held
+Only respond with the query, nothing else.""",
                 ),
             ]
         )
         query_base_prompt = ChatPromptTemplate.from_messages(
             [
-                (
-                    "system",
-                    """You are a helpful assistant. You are supposed to give a search query to find the most similar question and answer pair. here is what you should know about the event that the question and answers are about:
-The Winter Seminar Series (WSS) (may also be written as وسس in Persian) is a professional community event hosted by the Sharif University of Technology, aimed at bringing together successful Iranians globally to focus on computer science and engineering topics. Established eight years ago by the Student Scientific Chapter, WSS has become a significant four-day event where speakers present their research, share findings, and teach. The seminar includes presentations, roundtable discussions on various scientific topics, and educational workshops. These workshops are conducted online by university alumni and cover practical aspects of computer science and engineering. The event also features roundtable discussions in Persian, encouraging networking and knowledge exchange among participants.""",
-                ),
                 MessagesPlaceholder(variable_name="messages"),
                 (
                     "user",
-                    "Given the above conversation and your knowledge about the event, generate a search query to look up in order to get the most relevant question and answer pair to the conversation. Only respond with the query, nothing else.",
+                    """The Winter Seminar Series (WSS) (may also be written as وسس in Persian) is a professional community event hosted by the Sharif University of Technology, aimed at bringing together successful Iranians globally to focus on computer science and engineering topics. Established eight years ago by the Student Scientific Chapter, WSS has become a significant four-day event where speakers present their research, share findings, and teach. The seminar includes presentations, roundtable discussions on various scientific topics, and educational workshops. These workshops are conducted online by university alumni and cover practical aspects of computer science and engineering. The event also features roundtable discussions in Persian, encouraging networking and knowledge exchange among participants.
+Given the above request and the information provided about the event, generate a search query to look up in order to get the most relevant question and answer pair to the conversation.
+The search query should be general and respond to user's state and needs. example:
+user: I'm hungry
+query: location of where food is served
+user: when is WSS being held?
+query: time table of when event is being held
+Only respond with the query, nothing else.""",
                 ),
             ]
         )
@@ -127,8 +132,8 @@ The Winter Seminar Series (WSS) (may also be written as وسس in Persian) is a 
         self.history[user].add_user_message(message)
         response = self.retrieval_chain.invoke({"messages": self.history[user].messages})
         logger.info(f"A: {response}")
-        self.history[user].add_ai_message(response)
-        return response
+        self.history[user].add_ai_message(response['answer'])
+        return response['answer']
 
     def count_messages(self, user):
         return len(self.history[user].messages)
