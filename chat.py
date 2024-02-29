@@ -73,6 +73,9 @@ here is the context:
         )
         documents = loader.load_and_split(splitter)
         vectorstore = FAISS.from_documents(documents, OpenAIEmbeddings())
+        loader = UnstructuredFileLoader("datasets/WSS.txt")
+        documents = loader.load_and_split(splitter)
+        vectorstore.add_documents(documents)
         self.retriever = vectorstore.as_retriever(k=5)
         logger.info("retriever loaded")
     
