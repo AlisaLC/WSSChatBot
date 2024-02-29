@@ -1,0 +1,729 @@
+تاریخ: پنج‌شنبه ۱۰ اسفند ۱۴۰۲
+ساعت: ۹:۰۰ تا ۱۰:۳۰
+نوع: ارائه حضوری
+ارائه‌دهنده: Dr. Babak Nadjar Araabi | دکتر بابک نجار اعرابی
+موقعیت: Professor @ University of Tehran
+عنوان ارائه: Challenges of Modelling from Aristotle to Deep Learning
+زبان ارائه: فارسی
+کلیدواژه‌ها: data driven modelling, uncertainty, abstraction, induction and biases
+خلاصه ارائه:
+What is modeling? Why do we make models? What is called a good model? What are the different approaches to modeling? How far can we go solely based on input/output observation and measurement? What are the sources of uncertainty in modeling? Is it possible to resolve the uncertainty? How can we handle uncertainty within a model? In this talk, I am going to discuss the above questions, and more, about modeling; from very basic ancient questions to challenges of the deep learning era.
+بیوگرافی:
+Babak N Araabi was born in 1969 in Tehran. He has BS, MS, and PhD degrees in 1992, 1996, and 2001, from Sharif Univ. of Tech., Univ. of Tehran, and Texas A&M Univ., respectively, all in Electrical Engineering. He joined the School of ECE at Univ. of Tehran in 2002, where he is currently a professor and director of Machine Learning and Computational Modelling Lab. His research interests lie within the area of machine learning. He is particularly interested in prediction, causal representation learning, cognitive modeling, fault prognosis, computer vision, deep neural networks, and modeling under uncertainty. Obtained results by Prof. Araabi and his research team, has been published in more than 200 peer reviewed journal papers, and the same number of refereed conference papers.
+
+
+تاریخ: پنج‌شنبه ۱۰ اسفند ۱۴۰۲
+ساعت: ۱۱:۰۰ تا ۱۲:۳۰
+نوع: افتتاحیه
+
+
+تاریخ: پنج‌شنبه ۱۰ اسفند ۱۴۰۲
+ساعت: ۱۲:۳۰ تا ۱۴:۰۰
+نوع: پوستر سشن و ناهار
+
+
+تاریخ: پنج‌شنبه ۱۰ اسفند ۱۴۰۲
+ساعت: ۱۴:۰۰ تا ۱۵:۳۰
+نوع: ارائه حضوری
+ارائه‌دهنده: Dr. Hamed Nili | دکتر حامد نیلی
+موقعیت: Researcher @ University of Oxford
+عنوان ارائه: 
+Different levels of inference about pairwise regional interactions: testing for shared information in brain and in models
+زبان ارائه: فارسی
+کلیدواژه‌ها: Neuroscience, ML, Neural networks, Information Theory
+خلاصه ارائه:
+Classic approaches to functional connectivity of two brain regions consider the correlation between regional average time courses. This type of analysis makes it possible to infer whether two regions are co-active or not. Another level of inference is to test whether two regions have shared information. For that, multi-dimensional connectivity methods are suited. Those methods do not require averaging, that can lose information, and target the information content of high-dimensional activity patterns. In my presentation I will talk about a class of multi-dimensional connectivity methods, named representational connectivity analysis. I will talk about different variants of RCA (model-free and model-based RCA) and the different types of inferences they support. Finally, I will talk about a geometric-aware extension of model-free RCA, distance between 2nd moment matrices on the Riemannian manifold, which makes it possible to test for co-activation and shared information simultaneously.
+بیوگرافی:
+BSc: Electrical Engineering, Sharif University of Technology
+MSc: Digital Signal Processing, University of Cambridge
+PhD: University of Cambridge
+Postdoc: Neuroimaging, University of Oxford
+
+
+تاریخ: پنج‌شنبه ۱۰ اسفند ۱۴۰۲
+ساعت: ۱۶:۰۰ تا ۱۷:۳۰
+نوع: ارائه حضوری
+ارائه‌دهنده: شرکت دیوار (اسپانسر رویداد)
+
+
+تاریخ: پنج‌شنبه ۱۰ اسفند ۱۴۰۲
+ساعت: ۱۷:۴۵ تا ۱۹:۳۰
+نوع: میزگرد
+عنوان میزگرد: شاکله اکوسیستم صنعت-دانشگاه در دانشگاه‌های نسل چهارم
+خلاصه میزگرد: دانشگاه نسل چهارم دانشگاهی است که در جستجوی دستیابی به هدف‌های آموزشی، پژوهشی و کارآفرینانه با عنایت به مسئولیت اجتماعی و منطقه‌ای است. این تعریف جدید با اهداف توسعه پایدار و همچنین رابطه صنعت و دانشگاه هم راستا است. در این میزگرد به بررسی ساختار دانشگاه، سیستم آموزشی و ساختار دروس دانشگاهی، نقش شرکت‌ها در این اکوسیستم، نقش پذیری دانشجویان می‌پردازیم. سوالاتی را از هر دو سوی داستان می‌پرسیم و سعی می‌کنیم به درک صحیح و مشترکی از شرایط حاضر این ارتباط برسیم و نقاط ضعف و قوت را پیدا کنیم.
+
+
+تاریخ: پنج‌شنبه ۱۰ اسفند ۱۴۰۲
+ساعت: ۱۹:۳۰ تا ۲۰:۰۰
+نوع: شبکه سازی
+
+
+تاریخ: پنج‌شنبه ۱۰ اسفند ۱۴۰۲
+ساعت: ۲۰:۳۰ تا ۲۲:۰۰
+نوع: ارائه مجازی
+ارائه‌دهنده:Dr. Mohammad Sadrosadati | دکتر محمد صدرالساداتی
+موقعیت: Senior Researcher and Lecturer @ ETH Zürich
+عنوان ارائه: Storage-Centric Computing
+زبان ارائه: فارسی
+کلیدواژه‌ها: Near-Data Processing, Computational Storage, Data Movement, Data-Intensive Applications, Genomics, Metagenomics, Bulk Bitwise Operations
+خلاصه ارائه:
+Computing is bottlenecked by data. Large amounts of application data overwhelm the storage capability, communication capability, and computation capability of the modern machines we design today. As a result, many key applications' performance, efficiency, and scalability are bottlenecked by data movement. In this talk, we describe three major shortcomings of modern architectures in terms of 1) dealing with data, 2) taking advantage of vast amounts of data, and 3) exploiting different semantic properties of application data. We argue that an intelligent architecture should be designed to handle data well. We show that handling data well requires designing architectures based on three key principles: 1) data-centric, 2) data-driven, and 3) data-aware. We give several examples of how to exploit each of these principles to design a much more efficient and high-performance computing system. We especially discuss recent research that aims to fundamentally reduce memory latency and energy and practically enable computation close to data with storage-centric computing. There are at least two promising novel directions in storage-centric computing: 1) in-flash processing, which exploits analog operational properties in flash memory chips to perform massively parallel operations in memory with low-cost changes, and 2) processing near flash memory chips, which processing takes place inside the storage controller. We show both types of architectures can enable orders of magnitude improvements in performance and energy consumption of many important workloads, such as graph analytics, database systems, machine learning, video processing, and genomics. We discuss how to enable the adoption of such fundamentally more intelligent architectures, which we believe are key to efficiency, performance, and sustainability. We conclude with some guiding principles for future computing architecture and system designs.
+بیوگرافی:
+BSc: Computer Engineering, Sharif University of Technology
+MSc: Computer Engineering, Sharif University of Technology
+PhD: Computer Engineering, Sharif University of Technology
+
+
+تاریخ: پنج‌شنبه ۱۰ اسفند ۱۴۰۲
+ساعت: ۲۰:۳۰ تا ۲۲:۰۰
+نوع: ارائه مجازی
+ارائه‌دهنده:Dr. Mohammad Malekzadeh | دکتر محمد ملک‌زاده
+موقعیت: Senior Research Scientist @ Nokia Bell Labs
+عنوان ارائه: Multi-device Intelligence with a Data-Centric Approach to Federated Learning
+زبان ارائه: انگلیسی
+کلیدواژه‌ها: Device Intelligence, Federated Learning
+خلاصه ارائه:
+To improve human experience within a multi-device environment, it is important to learn from various modalities and in diverse circumstances. Two significant challenges are, first, the limited availability of data for multimodal learning, and second, the constrained computational capabilities of edge devices when it comes to training deep neural networks. Join our discussion on the efficient and effective training of neural networks using data captured by edge devices, covering topics such as data selection, model partitioning, missing modalities, label efficiency, and more.
+بیوگرافی:
+B.S.: Computer Engineering, Shahid Chamran University of Ahvaz (Jundi Shapur)
+M.Sc. :  Computer Engineering, Sharif University of Technology
+Ph.D. : Computer Science, Queen Mary University of London
+Research Associate: Imperial College London
+Research Intern: Brave Software
+
+
+تاریخ: پنج‌شنبه ۱۰ اسفند ۱۴۰۲
+ساعت: ۲۰:۳۰ تا ۲۲:۰۰
+نوع: ارائه مجازی
+ارائه‌دهنده:Dr. Ida Momennejad | دکتر آیدا مومن‌نژاد
+موقعیت: Principal Researcher @ Microsoft Research
+عنوان ارائه: Neuroscience-inspired Evaluation and Architecture for Generative AI
+زبان ارائه: فارسی
+کلیدواژه‌ها: AI, neuroscience, imitating human behavior, LLM, prefrontal cortex, cognitive maps, planning, memory, gaming AI
+خلاصه ارائه:
+This talk focuses on our recent research at the intersection of neuroscience and artificial intelligence, including the evaluation and enhancement of large language models (LLMs) and building gaming AI agents. I will present studies on the behavioral evaluation of various LLMs, the development of neuroscience-inspired architectures for LLMs, the investigation of latent representations and cognitive maps within these models, and the application of in-context learning to emulate human-like reasoning and decision-making. I will note challenges and solutions in auditing and improvement of LLM-based text evaluation and discuss broader implications of these advancements for creating human-like agents and generative AI. I will also discuss our practical research in gaming AI, focused on using diffusion models and behavioral methods for building human-like game agents. This synthesis of ideas from recent studies provides insights into how neuroscience-inspired approaches to AI can lead to more human-like artificial intelligence systems.
+بیوگرافی:
+M.Sc. :  History and Philosophy of Science, Utrecht University
+Ph.D. : Cognitive Neuroscience, Humboldt-Universität zu Berlin
+Postdoctoral Research: Machine Learning, Princeton University
+Associate Research Scientist: Columbia University in the City of New York
+
+
+تاریخ: پنج‌شنبه ۱۰ اسفند ۱۴۰۲
+ساعت: ۲۲:۰۰ تا ۲۴:۰۰
+نوع: میزگرد
+عنوان میزگرد: 
+Session1: Future of AI in Academy and Industry, AGI
+خلاصه میزگرد:
+This roundtable unites experts to navigate the intertwined futures of Artificial Intelligence and Artificial General Intelligence within both academic research and industrial application. Participants will delve into the latest AI breakthroughs, the ambitious journey towards AGI, and how these advancements are shaping the symbiosis between academia and industry. The discussion will cover ethical, technical, and societal challenges, the evolving demands on AI talent, and the educational frameworks needed to foster the next wave of innovators. Emphasis will be placed on the potential pathways to AGI, its theoretical and practical implications, and the transformative impact it could have across various sectors. This dialogue aims to provide insights into preparing for a future where AI and AGI redefine human life.
+
+
+تاریخ: جمعه ۱۱ اسفند ۱۴۰۲
+ساعت: ۹:۰۰ تا ۱۰:۳۰
+نوع: ارائه مجازی
+ارائه‌دهنده: Dr. Reza Shokri | دکتر رضا شکری
+موقعیت: Associate Professor @ National University of Singapore
+عنوان ارائه: Membership Inference Attacks
+زبان ارائه: فارسی
+کلیدواژه‌ها: Data Privacy, Trustworthy Machine Learning, Computer Security
+خلاصه ارائه:
+I will discuss Membership Inference Attacks, which are designed to determine whether a specific data point was part of a model's training set. The effectiveness of these attacks shows how much information a model inadvertently leaks about its training data. Such attacks form the foundation of privacy auditing in machine learning.
+بیوگرافی:
+M.Sc. : Computer Engineering, University of Tehran
+Ph.D. : Communication science, EPFL (École polytechnique fédérale de Lausanne)
+Postdoc: ETH Zürich
+Postdoc research fellow: Cornell Tech
+Research Consultant: Microsoft
+
+
+تاریخ: جمعه ۱۱ اسفند ۱۴۰۲
+ساعت: ۹:۰۰ تا ۱۰:۳۰
+نوع: ارائه مجازی
+ارائه‌دهنده: Dr. Ehsan Elhamifar | دکتر احسان الهامی‌فر
+موقعیت: Associate Professor @ Northeastern University
+عنوان ارائه: Towards Understanding of Complex Activity Videos
+زبان ارائه: انگلیسی
+کلیدواژه‌ها: Video understanding, Activity segmentation, Procedural tasks, Sequence alignment, Attention, Human-object-interaction
+خلاصه ارائه:
+Humans perform a wide range of complex activities, such as cooking hour-long recipes, assembling and repairing devices and performing surgeries. Many of these activities are procedural: they consist of sequences of steps that must be followed to achieve the desired goals. Learning complex procedural activities from videos allows us to design intelligent task assistants, robots  and coaching platforms that either perform or guide users through different tasks. However, learning from complex activity videos has many challenges: the videos are long, uncurated and contain many task-irrelevant activities, different videos show different ways of performing the same task or step, gathering framewise annotation is not scalable to many videos and tasks, and steps are often fine-grained. In this talk, I will discuss methods for efficient and robust learning from complex activity videos that address these challenges. I present new methods that bring together and extend sequence alignment, deep attention models and compositional learning and enable learning in an unsupervised or a weakly-supervised fashion.
+بیوگرافی:
+B.Sc. : Biomedical Engineering, Amirkabir University of Technology - Tehran Polytechnic
+M.Sc. :  Electrical and Electronics Engineering, Sharif University of Technology
+M.Sc. : Applied Mathematics and Statistics, Johns Hopkins University
+Ph.D. : Electrical and Computer Engineering, Johns Hopkins University
+Postdoctoral Scholar: University of California, Berkeley
+Visiting Researcher: Duke University
+Visiting Researcher: Stanford University
+Visiting Researcher: University of Minnesota
+
+
+تاریخ: جمعه ۱۱ اسفند ۱۴۰۲
+ساعت: ۱۱:۰۰ تا ۱۲:۳۰
+نوع: ارائه حضوری
+ارائه‌دهنده: رمزینکس (اسپانسر رویداد)
+
+
+تاریخ: جمعه ۱۱ اسفند ۱۴۰۲
+ساعت: ۱۲:۳۰ تا ۱۴:۰۰
+نوع: پوستر سشن و ناهار
+
+
+تاریخ: جمعه ۱۱ اسفند ۱۴۰۲
+ساعت: ۱۴:۰۰ تا ۱۵:۳۰
+نوع: ارائه حضوری
+ارائه‌دهنده: Dr. Mohammad Hossein Rohban | دکتر محمدحسین رهبان
+موقعیت: Assistant Professor @ Sharif University of Technology
+عنوان ارائه: Robust Out-of-Distribution Detection
+زبان ارائه: فارسی
+کلیدواژه‌ها: Out-of-Distribution Detection; Anomaly Detection; Adversarial Robustness; Adversarial Training
+خلاصه ارائه:
+In recent years, there have been significant improvements in various forms of image outlier detection. However, outlier detection performance under adversarial settings lags far behind that in standard settings. This is due to the lack of effective exposure to adversarial scenarios during training, especially on unseen outliers, leading to detection models failing to learn robust features. To bridge this gap, we introduce RODEO, a data-centric approach that generates effective outliers for robust outlier detection. More specifically, we show that incorporating outlier exposure (OE) and adversarial training could be an effective strategy for this purpose, as long as the exposed training outliers meet certain characteristics, including diversity, and both conceptual differentiability and analogy to the inlier samples. We leverage a text-to-image model to achieve this goal. We demonstrate both quantitatively and qualitatively that our adaptive OE method effectively generates ``diverse'' and ``near-distribution'' outliers, leveraging information from both text and image domains. Moreover, our experimental results show that utilizing our synthesized outliers significantly enhances the performance of the outlier detector, particularly in adversarial settings. 
+بیوگرافی:
+B.Sc: Computer Engineering, Sharif University of Technology
+M.Sc. :  Computer Engineering, Sharif University of Technology
+Ph.D. : Computer Engineering, Sharif University of Technology
+Postdoctoral Associate: Broad Institute
+Part-time Lecturer: Rochester Institute of Technology
+Postdoctoral Research: Boston University
+
+
+تاریخ: جمعه ۱۱ اسفند ۱۴۰۲
+ساعت: ۱۶:۰۰ تا ۱۷:۳۰
+نوع: ارائه حضوری
+ارائه‌دهنده: Dr. Reza Ebrahimpour | دکتر رضا ابراهیم‌پور
+موقعیت: Professor @ Sharif University of Technology
+عنوان ارائه: Interpersonal alignment of neural evidence accumulation to social exchange of confidence
+زبان ارائه: فارسی
+کلیدواژه‌ها: Cognitive Neuroscience, Artificial Intelligence, Neural Engineering, Cognitive Health
+خلاصه ارائه:
+Private, subjective beliefs about uncertainty have been found to have idiosyncratic
+computational and neural substrates yet, humans share such beliefs seamlessly and cooperate successfully. Bringing together decision making under uncertainty and interpersonal alignment in communication, in a discovery plus pre-registered replication design, we examined the neurocomputational basis of the relationship between privately held and socially shared uncertainty. Examining the confidence-speed-accuracy trade-off in uncertainty-ridden perceptual decisions under social vs isolated context, we found that shared (i.e. reported confidence) and subjective (inferred from pupillometry) uncertainty dynamically followed social information. An attractor neural network model incorporating social information as top-down additive input captured the observed behavior and demonstrated the emergence of social alignment in virtual dyadic simulations. Electroencephalography showed that social exchange of confidence modulated the neural signature of perceptual evidence accumulation in the central parietal cortex. Our findings offer a neural population model for interpersonal alignment of shared beliefs.
+بیوگرافی:
+M.Sc. : Electrical Engineering - Biomedical Engineering, University of Tarbiat Modares
+Ph.D. : Cognitive Neuroscience - SCS, The Institute for Research in Fundamental Sciences (IPM)
+
+
+تاریخ: جمعه ۱۱ اسفند ۱۴۰۲
+ساعت: ۱۷:۳۰ تا ۱۹:۰۰
+نوع: ارائه حضوری
+ارائه‌دهنده: شرکت بازار (اسپانسر رویداد)
+
+
+تاریخ: جمعه ۱۱ اسفند ۱۴۰۲
+ساعت: ۱۹:۰۰ تا ۲۰:۱۵
+نوع: ارائه حضوری
+ارائه‌دهنده: شرکت تپسل (اسپانسر رویداد)
+
+
+تاریخ: جمعه ۱۱ اسفند ۱۴۰۲
+ساعت: ۲۰:۳۰ تا ۲۲:۰۰
+نوع: ارائه مجازی
+ارائه‌دهنده: Dr. Gholamali Aminian | دکتر غلامعلی امینیان
+موقعیت: Research Associate @ The Alan Turing Institute
+عنوان ارائه: 
+Mean-field Analysis of Generalization Errors
+زبان ارائه: فارسی
+کلیدواژه‌ها: 
+Mean-field, Generalization error
+خلاصه ارائه:
+We propose a novel framework for exploring weak generalization error of algorithms through the lens of differential calculus on the space of probability measures. Specifically, we consider the KL-regularized empirical risk minimization problem and establish generic conditions under which the generalization error convergence rate, when training on a sample of size n, is O(1/n). In the context of supervised learning with a one-hidden layer neural network in the mean-field regime, these conditions are reflected in suitable integrability and regularity assumptions on the loss and activation functions.
+بیوگرافی:
+B.Sc. : Electrical and Electronics Engineering, Amirkabir University of Technology - Tehran Polytechnic
+M.Sc. : Communication Engineering, Sharif University of Technology
+Ph.D. : Communication systems,  Sharif University of Technology
+Research Fellowship: The Royal Society
+
+
+تاریخ: جمعه ۱۱ اسفند ۱۴۰۲
+ساعت: ۲۰:۳۰ تا ۲۲:۰۰
+نوع: ارائه مجازی
+ارائه‌دهنده: Dr. Abbas Mehrabian | دکتر عباس محرابیان
+موقعیت: Researcher @ Google DeepMind
+عنوان ارائه: Using artificial intelligence to solve combinatorial problems
+زبان ارائه: فارسی
+کلیدواژه‌ها: large language models, combinatorics, artificial intelligence
+خلاصه ارائه:
+In recent years artificial intelligence and machine learning methods, especially those based on large language models, have improved significantly and have found applications in multiple domains. In particular, they have been used to solve mathematical problems. In this talk, we'll discuss how large language models were used to prove new lower bounds for a few problems in combinatorics. This talk is based on a recent Nature paper
+بیوگرافی:
+B.S.: Mathematics and Computer Science, Sharif University of Technology
+M.Sc. : Mathematics and Computer Science, University of Waterloo
+Ph.D. : Mathematics and Computer Science, University of Waterloo
+Postdoctoral Research Fellow: Simon Fraser University
+Postdoctoral Fellow: The University of British Columbia
+Postdoctoral Fellow: University of California, Berkeley
+Postdoctoral Fellow: McGill University
+Graduate Student in Journalism: Concordia University
+
+
+تاریخ: جمعه ۱۱ اسفند ۱۴۰۲
+ساعت: ۲۲:۰۰ تا ۲۴:۰۰
+نوع: میزگرد
+عنوان میزگرد: 
+Session2: Foundation Models, LLMs and Multi-Modal Models
+خلاصه میزگرد:
+Foundation Models, LLMs (Large Language Models), and Multi-Modal Models represent cutting-edge AI research domains. Foundation Models are versatile algorithms pre-trained on vast datasets, enabling broad applications from natural language processing to image recognition. LLMs, a subset of Foundation Models, specifically focus on understanding and generating human-like text, revolutionizing chatbots, translation, and content creation. Multi-Modal Models transcend single data type limitations, integrating text, image, and sometimes audio inputs to create more comprehensive AI systems. These models are pivotal in developing AI that can understand context, make connections across modalities, and interact with users in more nuanced and sophisticated ways, marking a significant leap towards AI that mirrors human cognitive abilities.
+
+
+تاریخ: شنبه ۱۲ اسفند ۱۴۰۲
+ساعت: ۹:۰۰ تا ۱۰:۳۰
+نوع: ارائه مجازی
+ارائه‌دهنده: Dr. Amin Rezaei | دکتر امین رضایی
+موقعیت: Assistant Professor @ California State University, Long Beach
+عنوان ارائه: Hardware Security and Machine Learning: A Winning Combo!
+زبان ارائه: فارسی
+کلیدواژه‌ها: Hardware Security, Machine Learning
+خلاصه ارائه:
+Although the fabless model frees the semiconductor industry from having to invest in pricey manufacturing facilities and equipment, it poses additional security challenges, such as malicious insertion of hardware Trojans and hardware Intellectual Property (IP) theft; it also increases the need for designing secure hardware security primitives such as Physical Unclonable Functions (PUFs) for device authentication and key generation. The situation has worsened as integrating third-party IP cores and utilizing different Electronic Design Automation (EDA) tools has become the norm. Given the current trend, we have no choice but to consider a zero-trust environment in the IC design flow. The focus of this seminar is on machine learning solutions for three critical hardware security areas, including secure execution, intellectual property protection, and hardware security primitives in a zero-trust environment.
+بیوگرافی:
+B.S.: Computer Engineering, University of Isfahan
+M.Sc. : Computer Engineering, Shahid Beheshti University
+M.Sc. : Computer Science, University of Louisiana at Lafayette
+Ph.D. : Computer Engineering, Northwestern University
+
+
+تاریخ: شنبه ۱۲ اسفند ۱۴۰۲
+ساعت: ۹:۰۰ تا ۱۰:۳۰
+نوع: ارائه مجازی
+ارائه‌دهنده: Dr. Maziar Goudarzi | دکتر مازیار گودرزی
+موقعیت: Sr. Principal Engineer at Huawei Technologies
+عنوان ارائه: 
+HW/SW Co-design, and the Branch Prediction
+زبان ارائه: فارسی
+کلیدواژه‌ها: 
+Branch direction prediction, processor architecture, out-of-order processors, pipelined processors, compiler, co-design
+خلاصه ارائه:
+Despite extremely capable branch predictors in modern out-of-order (OOO) processors, the problem is still open for hard-to-predict branches such as data-dependent ones. We briefly review branch-prediction in modern OOO micro-architectures, and then present our co-designed BOSS (Branch-Outcome Side-channel Stream) mechanism where the compiler insight into the program structure allows to pre-resolve the direction of the branch. This talk should allow you to review how the processor frontend works, and give you insights into how compiler-microarchitecture collaboration can help to address pressing modern issues.
+بیوگرافی:
+B.Sc: Computer Engineering, Sharif University of Technology
+M.Sc.: Computer Engineering, Sharif University of Technology
+Ph.D. : Computer Engineering, Sharif University of Technology
+Associate Professor: Sharif University of Technology
+Visiting Professor: University of Toronto
+
+
+تاریخ: شنبه ۱۲ اسفند ۱۴۰۲
+ساعت: ۱۰:۳۰ تا ۱۲:۰۰
+نوع: ارائه مجازی
+ارائه‌دهنده: Dr. Hossein Esfandiari | دکتر حسین اسفندیاری
+موقعیت: Senior Research Scientist @ Google
+عنوان ارائه: Privacy Mechanisms for Sharing Datasets and Machine Learning Models
+زبان ارائه: فارسی
+کلیدواژه‌ها: Privacy, Machine Learning, Data Base, Algorithms
+خلاصه ارائه:
+In this presentation we discuss the importance of respecting privacy in computer science and introduce a few measures to provide privacy in computer science applications. Next we discuss the approaches and limitations to provide privacy, specially when it comes to sharing datasets and machine learning models.
+بیوگرافی:
+B.Sc: Computer Engineering, Sharif University of Technology
+Ph.D. : Computer Engineering, University of Maryland
+Post-doc: Harvard University
+
+
+تاریخ: شنبه ۱۲ اسفند ۱۴۰۲
+ساعت: ۱۲:۰۰ تا ۱۳:۳۰
+نوع: استراحت
+
+
+تاریخ: شنبه ۱۲ اسفند ۱۴۰۲
+ساعت: ۱۳:۳۰ تا ۱۵:۰۰
+نوع: ارائه مجازی
+ارائه‌دهنده: Dr. Amir Aminifar | دکتر امیر امینی‌فر
+موقعیت: Assistant Professor @ Lund University
+عنوان ارائه: Brain-Inspired Machine Learning for Internet of Things (IoT)
+زبان ارائه: فارسی
+کلیدواژه‌ها: 
+Energy-Efficient Machine Learning, TinyML, Federated Learning, Internet of Things (IoT)
+خلاصه ارائه:
+Machine learning and artificial intelligence have attracted a lot of attention over the past few decades in many application domains, including Internet of Things (IoT). The adoption of machine learning in IoT systems creates many new opportunities, e.g., detection of health abnormalities using wearable devices, but also involves several major challenges. In particular, IoT systems are decentralized and often limited in terms of computing/energy resources. In this talk, we highlight the key challenges in enabling machine-learning techniques on mobile-health and wearable IoT devices and discuss a few early solutions inspired by the human brain and nervous system.
+بیوگرافی:
+Ph.D. : Swedish National Computer Science Graduate School (CUGS), Linköping University
+Research Associate: Electrical Engineering at the Swiss Federal Institute of Technology (EPFL)
+
+
+تاریخ: شنبه ۱۲ اسفند ۱۴۰۲
+ساعت: ۱۵:۰۰ تا ۱۶:۳۰
+نوع: ارائه مجازی
+ارائه‌دهنده: Dr. Hatef Otroshi | دکتر هاتف اطرشی
+موقعیت: Research Assistant @ Idiap
+عنوان ارائه: Inversion of Deep Face Recognition Templates
+زبان ارائه: فارسی
+کلیدواژه‌ها: Biometrics, Face Recognition, Face Reconstruction, Template Inversion (TI) attack, Security, Privacy
+خلاصه ارائه:
+Face recognition systems are increasingly being used in different applications. In such systems, some features (also known as embeddings or templates) are extracted from each face image. Then, the extracted templates are stored in the system’s database during the enrollment stage and are later used for recognition. In this talk, I explain template inversion attacks against face recognition systems, where an adversary gains access to the templates stored in the database of the system and tries to reconstruct underlying faces from facial templates. The reconstructed face images not only reveal privacy-sensitive information (such as age, gender, etc.), but can also be used to impersonate. As a matter of fact, the reconstructed face images jeopardize both security and privacy of users: the adversary can use the reconstructed face image to impersonate and enter the system (security threat). In addition, the reconstructed face image not only reveals privacy-sensitive information of the enrolled user, such as age, gender, ethnicity, etc, but also provides a good estimation of the subject's face (privacy threat). Our experimental results demonstrate a critical vulnerability in face recognition systems.
+بیوگرافی:
+B.Sc. : Electrical and Electronics Engineering, University of Kashan
+M.Sc. :  Electrical and Electronics Engineering, Sharif University of Technology
+Ph.D. : Electrical and Electronics Engineering, EPFL (École polytechnique fédérale de Lausanne)
+Research Intern: ams OSRAM
+Visiting Researcher: Darmstadt University of Applied Sciences
+
+
+تاریخ: شنبه ۱۲ اسفند ۱۴۰۲
+ساعت: ۱۵:۰۰ تا ۱۶:۳۰
+نوع: ارائه مجازی
+ارائه‌دهنده: Dr. Elham Ehsani Moghadam | دکتر الهام احسانی مقدم
+موقعیت: PhD Candidate @ ETH Zürich
+عنوان ارائه: SCION: The Next Generation Internet Architecture
+زبان ارائه: فارسی
+کلیدواژه‌ها: Next-generation Internet Architecture, Inter-Domain Routing, Secure Control-Plane, Multi-Path Routing
+خلاصه ارائه:
+The Internet's remarkable success has embedded itself deeply within our society and economy, highlighting our heavy reliance on its connectivity. However, the current state of Internet safety and reliability falls short of its critical importance, leaving us vulnerable to disruptions and malicious threats. SCION (Scalability, Control, and Isolation on Next-Generation Networks) emerges as a solution, offering highly available communication with built-in security measures and considerations for deployment incentives and economic factors.
+بیوگرافی:
+B.Sc: Sharif University of Technology
+M.Sc. : Sharif University of Technology
+Ph.D. : Network Security, ETH Zürich
+
+
+تاریخ: شنبه ۱۲ اسفند ۱۴۰۲
+ساعت: ۱۶:۳۰ تا ۱۸:۰۰
+نوع: ارائه مجازی
+ارائه‌دهنده: Dr. Maziar Sharbafi | دکتر مازیار شعربافی
+موقعیت: Senior Project Leader @ Technische Universität Darmstadt, Senior IEEE Member
+عنوان ارائه: Artificial and Morphological Intelligence for Human Locomotion Assistance
+زبان ارائه: انگلیسی
+کلیدواژه‌ها: Morphological Intelligence, Human-robot Interaction, Wearable assistive robots
+خلاصه ارائه:
+Understanding human perception of assistance is crucial for supporting daily movement tasks. Involving users in design and control processes enhances integration of assistive systems for natural locomotion. The rapid advancement of Artificial Intelligence offers new opportunities for enhancing interaction between humans and wearable assistive robots. However, knowledge of biological mechanical design and control has not been fully utilized in robot design. Morphological intelligence, complementing artificial intelligence, can facilitate the development of assistive robots with seamless interaction with the human body. I will present novel bio inspired concepts in the design and control of lower limb exosuit which can be extended to other sorts of assistive systems too.
+بیوگرافی:
+B.Sc. : Electrical and Electronics Engineering, Sharif University of Technology
+M.Sc. :  Control Engineering, University of Tehran
+Ph.D. : Natural Sciences, Technische Universität Darmstadt
+Assistant professor: University of Tehran
+
+
+تاریخ: شنبه ۱۲ اسفند ۱۴۰۲
+ساعت: ۱۶:۳۰ تا ۱۸:۰۰
+نوع: ارائه مجازی
+ارائه‌دهنده: Dr. Ahmad Patooghy | دکتر احمد پاطوقی
+موقعیت: Assistant Professor @ North Carolina A&T State University
+عنوان ارائه: Security/Reliability Landscape of Multi-Processor System-on-Chips
+زبان ارائه: انگلیسی
+کلیدواژه‌ها: Hardware Security, Thermal attacks, Hardware Trojan, Machine Learning, IoT
+بیوگرافی:
+B.S. :Computer Engineering / Islamic Azad University of Arak
+M.Sc. : Computer Engineering, Sharif University of Technology
+Ph.D. : Computer Engineering, Sharif University of Technology
+Assistant Professor: Iran University of Science and Technology
+Research Fellow: Boston University
+Assistant Professor: University of Central Arkansas
+
+
+تاریخ: شنبه ۱۲ اسفند ۱۴۰۲
+ساعت: ۱۸:۰۰ تا ۱۹:۰۰
+نوع: استراحت
+
+
+تاریخ: شنبه ۱۲ اسفند ۱۴۰۲
+ساعت: ۱۹:۰۰ تا ۲۰:۳۰
+نوع: ارائه مجازی
+ارائه‌دهنده: Dr. Pooyan Jamshidi | دکتر پویان جمشیدی
+موقعیت: Assistant Professor @ University of South Carolina, Google
+عنوان ارائه: Reconciling High Accuracy, Cost-Efficiency, and Low Latency of Inference Serving Systems
+زبان ارائه: فارسی
+کلیدواژه‌ها: ML Systems, Multi-Objective Optimization, ML Inference Pipeline, System Performance
+خلاصه ارائه:
+ML inference services engage with users directly, requiring fast and accurate responses. Moreover, these services face dynamic workloads of requests, imposing changes in their computing resources, and failing to right-size computing resources results in either latency service level objectives (SLOs) violations or wasted computing resources. Adapting to dynamic workloads considering all the pillars of accuracy, latency, and resource cost is challenging. In this talk, I will present our recent solutions to the above-mentioned challenges: InfAdapter [1] and IPA [2]. InfAdapter combines model-switching and auto-scaling to trade accuracy, cost, and latency in inference serving systems, while IPA dynamically re-configures ML inference pipelines to achieve the tradeoff. 
+InfAdapter: InfAdapter proactively selects a set of ML model variants with their resource allocations to meet latency SLO while maximizing an objective function of accuracy and cost. Model variants are different versions of pre-trained models for the same ML task with variations in resource requirements, latency, and accuracy. We show that serving multiple model variants instead of a single variant can enable more granular adaptation space, achieving better tradeoffs among the conflicting objectives.
+IPA: IPA extends InfAdapter to enable runtime adaptation at the pipeline level that composes multiple ML services within a DAG structure. IPA dynamically configures batch size, resources, and model variants to optimize accuracy, minimize costs, and meet user-defined latency SLAs using Integer Programming. It supports multi-objective settings for achieving different tradeoffs between accuracy and cost objectives while remaining responsive to varying workloads and dynamic traffic patterns.
+بیوگرافی:
+B.S.: Mathematics and Computer Science, Amirkabir University of Technology - Tehran Polytechnic
+M.Sc. : Industrial Engineering (System Engineering),  Amirkabir University of Technology - Tehran Polytechnic
+Ph.D. : Computer Science (Machine Learning), Dublin City University
+Visiting Researcher: Google
+Postdoctoral Research Associate: Carnegie Mellon University
+Postdoctoral Research Associate: Imperial College London
+
+
+تاریخ: شنبه ۱۲ اسفند ۱۴۰۲
+ساعت: ۱۹:۰۰ تا ۲۰:۳۰
+نوع: ارائه مجازی
+ارائه‌دهنده: Dr. Morteza Zadimoghaddam | دکتر مرتضی زادی‌‌مقدم
+موقعیت: Research Scientist @ Google
+عنوان ارائه: Submodular maximization for data summarization
+زبان ارائه: فارسی
+کلیدواژه‌ها: Submodular Maximization, Streaming Algorithms, Dynamic Setting
+خلاصه ارائه:
+Thanks to the ubiquitous nature of “diminishing returns” functions, submodular maximization is a central problem in unsupervised learning. We study this optimization problem in the presence of practical considerations such as scalability, streaming nature of the data and robustness of the solution. 
+بیوگرافی:
+B.Sc: Computer Engineering, Sharif University of Technology
+Ph.D. : Computer Science, Massachusetts Institute of Technology
+Research Scientist: Microsoft Research
+Research Assistant: EPFL (École polytechnique fédérale de Lausanne)
+
+
+تاریخ: شنبه ۱۲ اسفند ۱۴۰۲
+ساعت: ۲۱:۰۰ تا ۲۳:۰۰
+نوع: میزگرد
+عنوان میزگرد: Ethical and Social Aspects of Al, Bias and Fairness, Privacy, AI Alignment and Regulation
+خلاصه میزگرد: 
+This roundtable event delves into the multifaceted realm of artificial intelligence, emphasizing its societal implications. Discussions will traverse the ethical and social aspects of AI, scrutinizing how these technologies impact our lives and moral frameworks. The conversation on bias and fairness will explore AI's propensity to perpetuate or mitigate inequalities, spotlighting the importance of diverse data and algorithms. Privacy concerns will be addressed, focusing on safeguarding personal information in an era of pervasive AI surveillance. Lastly, AI alignment and regulation will be debated, seeking harmonization between AI's capabilities and human values, alongside establishing robust regulatory frameworks to ensure ethical advancement and deployment.
+
+
+تاریخ: یک‌شنبه ۱۳ اسفند ۱۴۰۲
+ساعت: ۹:۰۰ تا ۱۰:۳۰
+نوع: ارائه مجازی
+ارائه‌دهنده: Dr. Shiva Amiri | دکتر شیوا امیری
+موقعیت: VP, Head of AI and Data Intelligence @ Pivotal Life Sciences
+عنوان ارائه: AI Methods in Drug Discovery
+زبان ارائه: انگلیسی
+کلیدواژه‌ها: Computational Biology, Artificial Intelligence, Drug Discovery, Data Science, Machine Learning
+خلاصه ارائه:
+This talk explores the space of computational biology and AI technologies within personalized drug discovery. There has been rapid growth in this space which
+holds great promise for advances in medical discoveries and healthy longevity.
+We will cover the various areas of work in this growing space in science and technology and drill into building analytics and AI platforms for personalized health and drug discovery using large- scale data.
+We will discuss large-scale genomic and phenotypic data sources as well
+as other emerging and new data sources, genomic analysis pipelines such as genome wide
+association study (GWAS), and production machine learning services, which power direct-to-
+consumer and therapeutics products.
+We will explore how the growth of data sources, compute, and algorithms will play an
+increasingly important role in the future of medicine.
+بیوگرافی:
+B.S. : Computer Science, Biology - University of Toronto
+Ph.D. : Computational Biochemistry, University of Oxford
+Director, Data Technology and Infrastructure: 23andMe
+Director, Data Science and Computational Chemistry: Zymergen
+
+
+تاریخ: یک‌شنبه ۱۳ اسفند ۱۴۰۲
+ساعت: ۹:۰۰ تا ۱۰:۳۰
+نوع: ارائه مجازی
+ارائه‌دهنده: Dr. Lili Irani | دکتر لیلی ایرانی
+موقعیت:  Associate Professor at UC San Diego
+عنوان ارائه: Building Platforms with Worker at the Center: Building in Uber Alternative in San Diego
+زبان ارائه: فارسی
+کلیدواژه‌ها: labor, platforms, design, CSCW, innovation policy, transportation
+خلاصه ارائه:
+Platforms have become an important way to organize work. However, many researchers and unions have pointed out the limitations of platforms, such as Uber and Mechanical Turk, for workers. In this talk, we begin by presenting problems with dominant ride hail platforms (e.g. Uber and Lyft) for workers. We then explain the barriers to innovation faced by workers developing a platform that serves their needs. This work draws on our recent publication "Hostile Ecologies: Navigating the Barriers to Community-Led Innovation'' from ACM CSCW 2022. We then show how our UCSD research team worked with United Taxi Workers San Diego to overcome these barriers through design, data policy analysis, and software engineering assistance. The result is our labor union ride hail platform RideUnited. We conclude with lessons on how human-computer interaction shifts when workers and worker organizations are placed at the center of systems development.
+بیوگرافی:
+BSc. : Computer Science, Stanford University
+M.Sc.: Human Computer Interaction, Stanford University
+Ph.D. : Information and Computer Sciences, University of California, Irvine
+Special Advisor: Coworker.org
+Research Fellow, Digital Cultures Research Lab: Leuphana University of Lüneburg
+Research Intern - People and Practices Research Group: Intel Research
+User Experience Designer: Google
+Systems Software Intern: NVIDIA
+
+
+تاریخ: یک‌شنبه ۱۳ اسفند ۱۴۰۲
+ساعت: ۱۰:۳۰ تا ۱۲:۰۰
+نوع: ارائه مجازی
+ارائه‌دهنده: Dr. Ali Ghadirzadeh | دکتر علی قدیرزاده
+موقعیت:  RL Engineer @ Embark Studios
+عنوان ارائه: Scaling Robot Learning with Offline Data 
+زبان ارائه: انگلیسی
+کلیدواژه‌ها: Robot learning, reinforcement learning, large-scale offline training
+خلاصه ارائه:
+In recent years, machine learning has achieved remarkable success in various domains, including natural language generation, code synthesis, and photo-realistic image generation, owing to the utilization of high capacity networks and large diverse offline data. Mirroring this trend, robotics is increasingly embracing large-scale datasets and high-capacity networks to advance learning capabilities. In this talk, I will present my recent research on strategies for scaling robot learning with offline data and highlighting key findings and implications for the field.
+بیوگرافی:
+B.S. : Electrical and Electronics Engineering - Ferdowsi University of Mashhad
+M.Sc. : Control and Robotics - KTH Royal Institute of Technology
+Ph.D. : Robotics and Computer Vision - KTH Royal Institute of Technology
+Post-doc: Stanford University
+
+
+تاریخ: یک‌شنبه ۱۳ اسفند ۱۴۰۲
+ساعت: ۱۰:۳۰ تا ۱۲:۰۰
+نوع: ارائه مجازی
+ارائه‌دهنده: Dr. Ramin Rajaei | دکتر رامین رجائی
+موقعیت: Sr. FPGA Design Engineer @ Jariet Technologies
+عنوان ارائه: Deep Dive into Cutting-Edge FPGA Design: Unleashing Performance Excellence
+زبان ارائه: فارسی
+کلیدواژه‌ها: FPGA design, UltraScale+, Versal, Advanced Data Converters, JESD 204B/C standards
+خلاصه ارائه:
+In recent years, machine learning has achieved remarkable success in various domains, including natural language generation, code synthesis, and photo-realistic image generation, owing to the utilization of high capacity networks and large diverse offline data. Mirroring this trend, robotics is increasingly embracing large-scale datasets and high-capacity networks to advance learning capabilities. In this talk, I will present my recent research on strategies for scaling robot learning with offline data and highlighting key findings and implications for the field.
+بیوگرافی:
+M.Sc. :  Electrical and Electronics Engineering, Sharif University of Technology
+Ph.D. : Electrical and Electronics Engineering, Sharif University of Technology
+Assistant Research Professor: University of Notre Dame
+Assistant Professor: Electrical Engineering, Shahid Beheshti University
+
+
+تاریخ: شنبه ۱۲ اسفند ۱۴۰۲
+ساعت: ۱۲:۰۰ تا ۱۳:۳۰
+نوع: استراحت
+
+
+تاریخ: یک‌شنبه ۱۳ اسفند ۱۴۰۲
+ساعت: ۱۳:۳۰ تا ۱۵:۰۰
+نوع: ارائه مجازی
+ارائه‌دهنده: Mohammadreza Salehi | محمدرضا صالحی
+موقعیت:  PhD student @ The QUVA lab, University of Amsterdam
+عنوان ارائه: Self-Supervised Learning Beyond Images
+زبان ارائه: فارسی
+کلیدواژه‌ها: Self-supervised Learning, Learning from Unlabeled Videos, Image Representation Learning
+خلاصه ارائه:
+Deep learning has revolutionized various fields by setting new benchmarks that were previously unattainable. Yet, these advancements come at a cost: the necessity for vast amounts of data, which is often expensive and labor-intensive to collect, especially if it requires labeling or cleaning. To address this challenge, researchers have pioneered the field of Self-Supervised Learning (SSL), exploring innovative ways to train deep learning models without the need for labeled data or extensive data cleaning. In this presentation, I will first provide an overview of existing SSL paradigms, then delve into cutting-edge methods, focusing on harnessing unlabeled videos to learn powerful image representations. This approach exemplifies the shift towards more efficient and accessible deep learning methodologies.
+بیوگرافی:
+B.Sc. : Computer Science, Sharif University of Technology
+Ph.D. : Computer Science, University of Amsterdam
+
+
+تاریخ: یک‌شنبه ۱۳ اسفند ۱۴۰۲
+ساعت: ۱۳:۳۰ تا ۱۵:۰۰
+نوع: ارائه مجازی
+ارائه‌دهنده: Dr. Solmaz Salimi | دکتر سولماز سلیمی
+موقعیت:  Postdoctoral Fellow @ Eurecom
+عنوان ارائه: Navigating Software and System Flaws: Unveiling Vulnerabilities and Strategies for Addressing Them
+زبان ارائه: فارسی
+کلیدواژه‌ها: Out-of-Distribution Detection; Anomaly Detection; Adversarial Robustness; Adversarial Training
+خلاصه ارائه:
+In the ever-evolving landscape of software and systems, vulnerabilities lurk at various levels, from the surface layers of application software down to the depths of kernel and firmware. This talk delves into the intricate web of flaws that plague modern technologies, shedding light on the diverse range of vulnerabilities that can compromise security and functionality, while also offering insight into effective strategies for mitigating them. From the essential practices of bug detection to advanced techniques such as fuzzing and symbolic execution, attendees will gain a comprehensive understanding of the arsenal of tools and methodologies available for navigating the complex landscape of software flaws. Additionally, we will explore large-scale approaches to bug discovery, such as initiatives like the Google OSS project, which harnesses collective intelligence to identify and address vulnerabilities across a wide spectrum of software projects.
+Moreover, we'll also examine the unique challenges involved in detecting and mitigating vulnerabilities in embedded devices. Unlike traditional software systems, embedded devices often operate under resource constraints and may have limited or no access to debugging tools and environments. Therefore, we will discuss specialized techniques and considerations for identifying and addressing vulnerabilities in these constrained environments.
+بیوگرافی:
+B.Sc: Computer Engineering, Iran University of Science and Technology 
+M.Sc. : Computer Engineering, Iran University of Science and Technology 
+Ph.D. : Computer Engineering, Sharif University of Technology
+Visiting Researcher: EPFL (École polytechnique fédérale de Lausanne)
+
+
+تاریخ: یک‌شنبه ۱۳ اسفند ۱۴۰۲
+ساعت: ۱۵:۰۰ تا ۱۶:۳۰
+نوع: ارائه مجازی
+ارائه‌دهنده: Dr. Iman Dehzangi | دکتر ایمان ده‌زنگی
+موقعیت:  Assistant Professor @ Rutgers University
+عنوان ارائه: Utilizing machine learning in bioinformatics and computational biology
+زبان ارائه: انگلیسی
+کلیدواژه‌ها: Machine learning, Deep learning, Bioinformatics, Computational Biology
+خلاصه ارائه:
+Machine Learning (ML) and Deep Learning (DL) have emerged as powerful tools in addressing complex issues within Bioinformatics and Computational Biology, offering promising alternatives to traditional experimental and computational methodologies. At the Machine Learning, Bioinformatics, and Computational Biology (MLBC) lab at Center for Computational and Integrative Biology (CCIB) at Rutgers University, Camden, we are dedicated to tackling a wide range of challenging problems. These include predicting protein folding, structural classification, subcellular localization, and post-translational modifications (PTMs), alongside problems in biomedical image processing, cancer detection, and cancer subtype identification. Our approach involves leveraging various classification techniques, with an emphasis on deep learning architectures trained on novel features extracted from evolutionary and structural properties of proteins and genes. In this presentation, I will discuss both past and ongoing research aimed at constructing integrated models to tackle these challenges, while also outlining future directions for solving these crucial issues..
+بیوگرافی:
+B.S.: Computer Engineering, Shiraz University
+M.Sc. : Bioinformatics and Computational Biology, Multimedia University
+Ph.D. : Bioinformatics and Computational Biology, Griffith University
+Post-doc: The University of Iowa
+Assistant Professor: Morgan State University
+
+
+تاریخ: یک‌شنبه ۱۳ اسفند ۱۴۰۲
+ساعت: ۱۵:۰۰ تا ۱۶:۳۰
+نوع: ارائه مجازی
+ارائه‌دهنده: Dr. Saeed Saadatnejad | دکتر سعید سعادت‌نژاد
+موقعیت: Computer Vision Researcher @ EPFL (École polytechnique fédérale de Lausanne)
+عنوان ارائه: Motion Forecasting with Generative Models
+زبان ارائه: فارسی
+کلیدواژه‌ها: Machine Learning, Computer Vision
+خلاصه ارائه:
+Forecasting is a capability inherent in humans when navigating. Humans routinely plan their paths, considering the potential future movements of those around them. Similarly, to achieve comparable sophistication and safety, autonomous systems must embrace this predictive nature. Deep generative models have played a pivotal role in advancing these systems in recent years. The presentation begins with the introduction of generative models in trajectory forecasting. A novel automated assessment, described as an essential but previously unexplored approach, is presented to objectively evaluate the performance of these models, shedding light on how state-of-the-art models can generate forecasts that violate social norms and scene constraints. To mitigate that, the impact of additional visual cues that humans subconsciously exhibit when navigating space is explored. Moving on to a fine-grained representation, human body pose forecasting is discussed. A generic model is introduced to deal with not only clean environments but also real-world noisy observations. Employing a diffusion-based approach for pose forecasting, the task is framed as a denoising problem. The presentation closes by briefly exploring future directions in this field.
+بیوگرافی:
+B.Sc: Electrical and Electronics Engineering, Sharif University of Technology
+M.Sc.: Computer Science, Sharif University of Technology
+Ph.D. : Computer Science, EPFL (École polytechnique fédérale de Lausanne)
+Research Internship: Disney Research 
+Research Internship: Valeo
+
+
+تاریخ: یک‌شنبه ۱۳ اسفند ۱۴۰۲
+ساعت: ۱۶:۳۰ تا ۱۸:۰۰
+نوع: ارائه مجازی
+ارائه‌دهنده: Dr. Farzan Farnia | دکتر فرزان فرنیا
+موقعیت: Assistant Professor @ The Chinese University of Hong Kong
+عنوان ارائه: Evaluation of Generative Models in Federated Learning
+زبان ارائه: فارسی
+کلیدواژه‌ها: Generative models, federated learning, evaluation in machine learning
+خلاصه ارائه:
+The evaluation of deep generative models has been extensively studied in the machine learning community. While the existing evaluation methods focus on centralized learning problems with training data stored by a single client, many applications of generative models concern distributed learning settings, e.g. in federated learning, where training data are collected by and distributed among several clients. In this seminar, we discuss the evaluation of generative models in distributed contexts. We show potential inconsistent rankings following different aggregations of standard evaluation scores, such as FID distance, in a distributed network. We present numerical results on benchmark datasets and generative model training schemes to support our theoretical findings on the evaluation of generative models in distributed learning settings.
+بیوگرافی:
+B.S.: Electrical and Electronics Engineering and Mathematics, Sharif University of Technology
+M.Sc. :  Electrical and Electronics Engineering, Stanford University
+Ph.D. : Electrical and Electronics Engineering, Stanford University
+Postdoctoral : Massachusetts Institute of Technology
+Research Intern: Microsoft
+
+
+تاریخ: یک‌شنبه ۱۳ اسفند ۱۴۰۲
+ساعت: ۱۶:۳۰ تا ۱۸:۰۰
+نوع: ارائه مجازی
+ارائه‌دهنده: Dr. Farzan Farnia | دکتر فرزان فرنیا
+موقعیت: Assistant Professor @ The Chinese University of Hong Kong
+عنوان ارائه: Evaluation of Generative Models in Federated Learning
+زبان ارائه: فارسی
+کلیدواژه‌ها: Generative models, federated learning, evaluation in machine learning
+خلاصه ارائه:
+The evaluation of deep generative models has been extensively studied in the machine learning community. While the existing evaluation methods focus on centralized learning problems with training data stored by a single client, many applications of generative models concern distributed learning settings, e.g. in federated learning, where training data are collected by and distributed among several clients. In this seminar, we discuss the evaluation of generative models in distributed contexts. We show potential inconsistent rankings following different aggregations of standard evaluation scores, such as FID distance, in a distributed network. We present numerical results on benchmark datasets and generative model training schemes to support our theoretical findings on the evaluation of generative models in distributed learning settings.
+بیوگرافی:
+B.S.: Electrical and Electronics Engineering and Mathematics, Sharif University of Technology
+M.Sc. :  Electrical and Electronics Engineering, Stanford University
+Ph.D. : Electrical and Electronics Engineering, Stanford University
+Postdoctoral : Massachusetts Institute of Technology
+Research Intern: Microsoft
+
+
+تاریخ: یک‌شنبه ۱۳ اسفند ۱۴۰۲
+ساعت: ۱۶:۳۰ تا ۱۸:۰۰
+نوع: ارائه مجازی
+ارائه‌دهنده: Dr. Puya Ghazizadeh | دکتر پویا قاضی‌زاده
+موقعیت: Assistant Professor @ St. John's University
+عنوان ارائه: Fault Tolerance in Vehicular Cloud Computing
+زبان ارائه: انگلیسی
+کلیدواژه‌ها: Cloud Computing, Vehicular Cloud, Intelligent Transportation Systems
+خلاصه ارائه:
+Roughly a decade ago, inspired by the phenomenal success of cloud computing, a group of researchers have defined Vehicular Clouds as a group of vehicles whose sensing, communication, and computing resources can be coordinated and allocated to authorized users. While both conventional and Vehicular Clouds are instances of utility computing, a number of important characteristics set vehicular clouds apart from their conventional counterparts. These characteristics include the mobility of vehicles and the volatility of resources that fluctuate with the arrival and departure of vehicles. 
+Our main contribution is to enhance the dependability of VC through a family of redundancy-based job assignment strategies that mitigates the effect of resource volatility in VCs
+بیوگرافی:
+Ph.D. : Computer Science, Old Dominion University
+Assistant Professor: Millersville University
+Assistant Professor: Seton Hall University
+
+
+تاریخ: یک‌شنبه اسفند ۱۴۰۲
+ساعت: ۱۸:۰۰ تا ۱۹:۰۰
+نوع: اختتامیه
+
+
+تاریخ: یک‌شنبه ۱۳ اسفند ۱۴۰۲
+ساعت: ۱۹:۰۰ تا ۲۰:۳۰
+نوع: ارائه مجازی
+ارائه‌دهنده: Dr. Elahe Soltanaghai | دکتر الهه سلطان‌آقایی
+موقعیت: Assistant Professor @ University of Illinois Urbana-Champaign
+عنوان ارائه: Unleashing the invisible world of wireless signals
+زبان ارائه: فارسی
+کلیدواژه‌ها: Wireless Sensing, Internet of Things, Cyber physical systems, Wireless Networks
+خلاصه ارائه:
+Emerging applications such as smart cities, autonomous vehicles, or smart metaverse, all rely on embedded systems that are engaging with the physical environment through sensors. That means a home that monitors your activities and health status, learns your habits and preferences, and automatically controls lighting, air conditioning, and more. One of the pillars of success for these emerging applications is an efficient and robust mechanism for sensing the physical world. Recent advances in wireless technologies present new promising possibilities to harness the wireless infrastructure in and around buildings and cities to act as a non-intrusive sensing platform. In effect, this network of wireless devices creates an ocean of radio waves that interact with each other and the environment in complex ways. This talk will focus on how to convert any commodity wireless device into an individual sensor by mapping their wireless reflections to relevant physical and behavioral measurements in the context of human sensing, object tracking, and indoor localization. We will then conclude this talk with a glimpse of ongoing research at UIUC iSENS lab on embracing the sensing capability of wireless signals for a wide range of applications, from enabling safe and efficient autonomous driving to enabling remote forest sensing for wildfire monitoring.
+بیوگرافی:
+B.Sc. : Software Engineering, Amirkabir University of Technology - Tehran Polytechnic
+M.Sc. : Information Technology Engineering, Sharif University of Technology
+Ph.D. : Computer Engineering, University of Virginia
+Postdoc: Carnegie Mellon University
+Research Intern: Microsoft
+
+
+تاریخ: یک‌شنبه ۱۳ اسفند ۱۴۰۲
+ساعت: ۱۹:۰۰ تا ۲۰:۳۰
+نوع: ارائه مجازی
+ارائه‌دهنده: Dr. Reyhaneh Jabbarvand | دکتر ریحانه جباروند
+موقعیت: Professor @ University of Illinois Urbana-Champaign
+عنوان ارائه: Lost in Translation: A Study of Bugs Introduced by Large Language Models while Translating Code
+زبان ارائه: فارسی
+کلیدواژه‌ها: LLM4Code, Code translation and transpilation
+خلاصه ارائه:
+Code translation aims to convert source code from one programming language (PL) to another. Given the promising abilities of large language models (LLMs) in code synthesis, researchers are exploring their potential to automate code translation. The prerequisite for advancing the state of LLM-based code translation is to understand their promises and limitations over existing techniques. To that end, we present a large-scale empirical study to investigate the ability of general LLMs and code LLMs for code translation across pairs of different languages, including C, C++, Go, Java, and Python. Our study, which involves the translation of 1,700 code samples from three benchmarks and two real-world projects, reveals that LLMs are yet to be reliably used to automate code translation—with correct translations ranging from 2.1% to 47.3% for the studied LLMs. Further manual investigation of unsuccessful translations identifies 15 categories of translation bugs. We also compare LLM-based code translation with traditional non-LLM-based approaches.
+Our analysis shows that these two classes of techniques have their own strengths and weaknesses. Finally, insights from our study suggest that providing more context to LLMs during translation can help them produce better results. To that end, we propose a prompt-crafting approach based on the symptoms of erroneous translations; this improves the performance of LLM-based code translation by 5.5% on average. Our study is the first of its kind, in terms of scale and breadth, that provides insights into the current limitations of LLMs in code translation and opportunities for improving them. Our dataset—consisting of 1,700 code samples in five PLs with 10K+ tests, 43K+ translated code, 1,748 manually labeled bugs, nd 1,365 bug-fix pairs—can help drive research in this area
+بیوگرافی:
+B.Sc. : Information Technology, Sharif University of Technology
+M.Sc. : Computer Networks, Sharif University of Technology
+Ph.D. : Computer Software Engineering, University of California, Irvine
+Research Assistant: George Mason University
+Graduate Technical Intern: Intel Corporation- Data Center Group
+
+
+تاریخ: یک‌شنبه ۱۳ اسفند ۱۴۰۲
+ساعت: ۲۰:۳۰ تا ۲۱:۳۰
+نوع: ارائه مجازی
+ارائه‌دهنده: Dr. Narges Baniasadi | دکتر نرگس بنی‌اسدی
+موقعیت: Adjunct Professor @ Stanford University
+عنوان ارائه: Entrepreneurship for Improving Public Health
+زبان ارائه: فارسی
+کلیدواژه‌ها: Public Health, Innovation, Entrepreneurship, System Change, System Thinking, Social Impact
+خلاصه ارائه:
+I can present a framework and innovation methodology for addressing Systemic Drivers of Health.I can also speak about my journey of building a Bioinformatics company and serving as an executive in Roche.
+بیوگرافی:
+B.Sc. : Computer Engineering, University of Tehran
+M.Sc. :  Electrical Engineering, Stanford University
+Ph.D. : Electrical Engineering, Stanford University
+Co-Founder and CEO: Bina Technologies
+Board Of Directors, Chairperson: Base Genomics
+Board Of Directors: BioBeats
+Vice President and Life Cycle Leader: Roche Molecular Solutions
+Venture Partner: Entrepreneur First
+Venture Partner: Oxford Sciences Innovation
+Entrepreneur In Residence: ZINC VCEntrepreneur In Residence: ZINC VC
