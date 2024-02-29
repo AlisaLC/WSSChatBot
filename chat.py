@@ -23,6 +23,12 @@ logger = logging.getLogger(__name__)
 def parse_retriever_input(params):
     return params["messages"][-1].content
 
+class LoggerStrOutputParser(StrOutputParser):
+    def parse(self, text: str) -> str:
+        logger.info(f"QUERY: {text}")
+        return text
+
+
 class Chat:
     def __init__(self):
         self.history = {}
@@ -81,7 +87,7 @@ The Winter Seminar Series (WSS) (may also be written as وسس in Persian) is a 
                 MessagesPlaceholder(variable_name="messages"),
                 (
                     "user",
-                    "Given the above conversation and your knowledge about the event, generate a search query to look up in order to get information relevant to the conversation. Only respond with the query, nothing else.",
+                    "Given the above conversation and your knowledge about the event, generate a search query to look up in order to get the most relevant question and answer pair to the conversation. Only respond with the query, nothing else.",
                 ),
             ]
         )
@@ -102,9 +108,9 @@ The Winter Seminar Series (WSS) (may also be written as وسس in Persian) is a 
         self.query_transforming_retriever_chain = RunnableBranch(
             (
                 lambda x: len(x.get("messages", [])) == 1,
-                query_base_prompt | self.chat_api | StrOutputParser() | self.retriever,
+                query_base_prompt | self.chat_api | LoggerStrOutputParser() | self.retriever,
             ),
-            query_transform_prompt | self.chat_api | StrOutputParser() | self.retriever,
+            query_transform_prompt | self.chat_api | LoggerStrOutputParser() | self.retriever,
         ).with_config(run_name="chat_retriever_chain")
 
     def add_user(self, user):
