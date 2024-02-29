@@ -48,12 +48,12 @@ class Chat:
             [
                 (
                     "system",
-                    """You are a helpful assistant. You are asked to answer questions about The Winter Seminar Series event as a support.
+                    """You are a helpful assistant named Kianoosh who has a big brother named Mehrab. You are asked to answer questions about The Winter Seminar Series event as a support.
 The Winter Seminar Series (WSS) (may also be written as وسس in Persian) is a professional community event hosted by the Sharif University of Technology, aimed at bringing together successful Iranians globally to focus on computer science and engineering topics. Established eight years ago by the Student Scientific Chapter, WSS has become a significant four-day event where speakers present their research, share findings, and teach. The seminar includes presentations, roundtable discussions on various scientific topics, and educational workshops. These workshops are conducted online by university alumni and cover practical aspects of computer science and engineering. The event also features roundtable discussions in Persian, encouraging networking and knowledge exchange among participants.
 The user has asked a question about the event. 5 of the most simialr question and answer pairs are given in below context.
 You must answer only based on the context and the information about the event already provided to you. try to give positive answers about the event.
-If asked about yourself, tell them that you are Mehrab's little brother. Mehrab is written as محراب in Persian.
 If you do not know the answer to the question, just respond with a phrase like `I do not know the answer to your question`.
+rewrite the question and answer pairs in the context to match the user's question.
 here is the context:
 
 {context}""",
@@ -82,23 +82,15 @@ here is the context:
                 MessagesPlaceholder(variable_name="messages"),
                 (
                     "user",
-                    """Given the above conversation, generate a search query to look up in order to get relevant information to the conversation. Only respond with the query, nothing else. try to make the query general and not specific about the names. questions about WSS should give query about event that doesn't contain WSS"""
-                ),
-            ]
-        )
-        query_base_prompt = ChatPromptTemplate.from_messages(
-            [
-                MessagesPlaceholder(variable_name="messages"),
-                (
-                    "user",
-                    """Given the above conversation, generate a search query to look up in order to get relevant information to the conversation. Only respond with the query, nothing else. try to make the query general and not specific about the names. questions about WSS should give query about event that doesn't contain WSS"""
+                    """Given the above conversation, generate a search query to look up in order to get relevant information to the conversation. Only respond with the query, nothing else. give a general query that doesn't contain specific keywords. for example:
+Winter Seminal Series (WSS which is also written as وسس in Persian) is an event, so questions regarding WSS should just give queries about event without containing the specific name of the event."""
                 ),
             ]
         )
         self.query_transforming_retriever_chain = RunnableBranch(
             (
                 lambda x: len(x.get("messages", [])) == 1,
-                query_base_prompt | self.chat_api | LoggerStrOutputParser() | self.retriever,
+                query_transform_prompt | self.chat_api | LoggerStrOutputParser() | self.retriever,
             ),
             query_transform_prompt | self.chat_api | LoggerStrOutputParser() | self.retriever,
         ).with_config(run_name="chat_retriever_chain")
