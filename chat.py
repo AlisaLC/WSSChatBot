@@ -1,6 +1,5 @@
 import dotenv
 dotenv.load_dotenv()
-import os
 
 from langchain_openai import ChatOpenAI
 from langchain.chains.combine_documents import create_stuff_documents_chain
@@ -83,14 +82,8 @@ here is the context:
                 MessagesPlaceholder(variable_name="messages"),
                 (
                     "user",
-                    """The Winter Seminar Series (WSS) (may also be written as وسس in Persian) is a professional community event hosted by the Sharif University of Technology, aimed at bringing together successful Iranians globally to focus on computer science and engineering topics. Established eight years ago by the Student Scientific Chapter, WSS has become a significant four-day event where speakers present their research, share findings, and teach. The seminar includes presentations, roundtable discussions on various scientific topics, and educational workshops. These workshops are conducted online by university alumni and cover practical aspects of computer science and engineering. The event also features roundtable discussions in Persian, encouraging networking and knowledge exchange among participants.
-Given the above conversation and the information provided about the event, generate a search query to look up in order to get the most relevant question and answer pair to the conversation.
-The search query should be general and respond to user's state and needs. example:
-user: I'm hungry
-query: location of where food is served
-user: when is WSS being held?
-query: time table of when event is being held
-Only respond with the query, nothing else.""",
+                    """Given the above conversation and the information provided about the event below, generate a search query to look up in order to get the most relevant information to the conversation. Only respond with the query, nothing else. try to make the query general and not too focused on names.
+Winter Seminar Series (WSS) (may also be written as وسس in Persian) is a professional community event hosted by the Sharif University of Technology on computer science and engineering topics.""",
                 ),
             ]
         )
@@ -99,14 +92,8 @@ Only respond with the query, nothing else.""",
                 MessagesPlaceholder(variable_name="messages"),
                 (
                     "user",
-                    """The Winter Seminar Series (WSS) (may also be written as وسس in Persian) is a professional community event hosted by the Sharif University of Technology, aimed at bringing together successful Iranians globally to focus on computer science and engineering topics. Established eight years ago by the Student Scientific Chapter, WSS has become a significant four-day event where speakers present their research, share findings, and teach. The seminar includes presentations, roundtable discussions on various scientific topics, and educational workshops. These workshops are conducted online by university alumni and cover practical aspects of computer science and engineering. The event also features roundtable discussions in Persian, encouraging networking and knowledge exchange among participants.
-Given the above request and the information provided about the event, generate a search query to look up in order to get the most relevant question and answer pair to the conversation.
-The search query should be general and respond to user's state and needs. example:
-user: I'm hungry
-query: location of where food is served
-user: when is WSS being held?
-query: time table of when event is being held
-Only respond with the query, nothing else.""",
+                    """Given the above conversation and the information provided about the event below, generate a search query to look up in order to get the most relevant information to the conversation. Only respond with the query, nothing else. try to make the query general and not too focused on names.
+Winter Seminar Series (WSS) (may also be written as وسس in Persian) is a professional community event hosted by the Sharif University of Technology on computer science and engineering topics.""",
                 ),
             ]
         )
